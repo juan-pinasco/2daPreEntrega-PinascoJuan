@@ -8,8 +8,8 @@ const NavBar = () => {
         <button>Tablets</button>
         <button>Notebooks</button>
       </div>
-      <h3>Ecommerce</h3>
       <CartWidget />
+      <h3>Ecommerce</h3>
     </nav>
   );
 };
